@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: testassigment
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+  datasource:
+    url: jdbc:postgresql://localhost:5432/users_db
+    username: postgres
+    password: postgres
+MIN_USER_AGE: 18
