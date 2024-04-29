@@ -1,4 +1,4 @@
-Swagger UI added to the project via http://localhost:8080/swagger-ui.html
+Swagger UI added to the project. Its URL http://localhost:8080/swagger-ui.html
 
 
 Java practical test assignment
